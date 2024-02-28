@@ -2,7 +2,7 @@
 
 ## C語言開發
 ### 範例1
-```c=
+```c
 #include <stdio.h>
 
 int main() {

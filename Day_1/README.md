@@ -146,3 +146,14 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 ```
+
+### 從原始碼到可執行檔案
+gcc 的參數
+預處理階段 ==> gcc –E XXX.c –o XXX.i
+編譯階段   ==> gcc –S XXX.i –o XXX.s
+組譯階段   ==> gcc –c XXX.s –o XXX.o
+連結階段   ==> gcc XXX.o –o XXX
+
+產生AT&T語法格式的組語(gcc預設使用的格式) ==> gcc -S -masm=att XXXXX.c -o XXXXX_att.s
+產生Intel語法格式的組語(微軟預設使用的格式) ==> gcc -S -masm=intel XXXXX.c -o XXXXX_intel.s
+

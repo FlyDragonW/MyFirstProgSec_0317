@@ -1,7 +1,7 @@
 # 第一天課程
 
 ## C語言開發
-### 範例1
+### 範例一：Hello World
 ```c
 #include <stdio.h>
 

@@ -95,29 +95,6 @@ int main() {
 }
 ```
 
-### 課間練習：Bit 操作
-a = 12, b = 9
-請撰寫一個程式找出以下四值
-a AND b
-a OR b
-a XOR b
-NOT a
-
-提示：
-```c
-#include <stdio.h>
-
-int main() {
-    int a = 12;
-    int b = 9;
-    printf("%d\n", a & b);
-    printf("%d\n", ?????);
-    printf("%d\n", ?????);
-    printf("%d\n", ?????);
-    return 0;
-}
-```
-
 ### 範例六：指標
 ```c
 #include <stdio.h>
@@ -148,12 +125,34 @@ int main(int argc, char *argv[]) {
 ```
 
 ### 從原始碼到可執行檔案
-gcc 的參數
-預處理階段 ==> gcc –E XXX.c –o XXX.i
-編譯階段   ==> gcc –S XXX.i –o XXX.s
-組譯階段   ==> gcc –c XXX.s –o XXX.o
-連結階段   ==> gcc XXX.o –o XXX
+gcc 的參數  
+預處理階段 ==> gcc –E XXX.c –o XXX.i  
+編譯階段   ==> gcc –S XXX.i –o XXX.s  
+組譯階段   ==> gcc –c XXX.s –o XXX.o  
+連結階段   ==> gcc XXX.o –o XXX  
 
-產生AT&T語法格式的組語(gcc預設使用的格式) ==> gcc -S -masm=att XXXXX.c -o XXXXX_att.s
-產生Intel語法格式的組語(微軟預設使用的格式) ==> gcc -S -masm=intel XXXXX.c -o XXXXX_intel.s
+產生AT&T語法格式的組語(gcc預設使用的格式) ==> gcc -S -masm=att XXXXX.c -o XXXXX_att.s  
+產生Intel語法格式的組語(微軟預設使用的格式) ==> gcc -S -masm=intel XXXXX.c -o XXXXX_intel.s  
 
+### 作業：C程式開發 & Bit 操作
+a = 12, b = 9
+請撰寫一個程式找出以下四值
+a AND b
+a OR b
+a XOR b
+NOT a
+
+提示：
+```c
+#include <stdio.h>
+
+int main() {
+    int a = 12;
+    int b = 9;
+    printf("%d\n", a & b);
+    printf("%d\n", ?????);
+    printf("%d\n", ?????);
+    printf("%d\n", ?????);
+    return 0;
+}
+```

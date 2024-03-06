@@ -28,7 +28,7 @@ sudo apt install python-pip
 python2 -m pip install --upgrade pip==20.3.4
 python2 -m pip install --upgrade pwntools
 ```
-5. IDA
+5. IDA  
 安裝有問題的話嘗試以下指令
 ```
 sudo apt install xorg-dev

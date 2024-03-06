@@ -1,7 +1,9 @@
 # MyFirstProgramSec_0317
-
 課程主要內容在簡報，此處主要是放指令和程式碼方便複製  
-請加入 [Discord 群組](https://discord.gg/hQYXb7RYV4) 
+
+## 課前準備
+- 練習虛擬機使用和 Linux 基本指令
+- 請加入 [Discord 群組](https://discord.gg/hQYXb7RYV4)
 
 ## 證書發放標準
 完成 3/17 課程的作業，並通過助教審核

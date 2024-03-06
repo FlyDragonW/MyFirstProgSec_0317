@@ -1,9 +1,14 @@
-# MyFirstProgramSec
+# MyFirstProgramSec_0317
 
 課程主要內容在簡報，此處主要是放指令和程式碼方便複製
 
+## 證書發放標準
+完成 3/17 課程的作業，並通過助教審核
+
 ## 環境
-本次課程需要以下工具，請自行安裝或直接使用我提供的 ova
+虛擬機檔案載點：[點我](https://1drv.ms/f/s!AiGk-SANRb91iB_7utC_rNRQyIN4?e=wWR2Hi)
+
+本次課程需要以下工具，請自行安裝或直接使用我提供的虛擬機檔案
 
 1. GNU
 ```

@@ -1,6 +1,6 @@
 # MyFirstProgramSec_0317
 
-課程主要內容在簡報，此處主要是放指令和程式碼方便複製
+課程主要內容在簡報，此處主要是放指令和程式碼方便複製  
 請加入 [Discord 群組](https://discord.gg/hQYXb7RYV4) 
 
 ## 證書發放標準

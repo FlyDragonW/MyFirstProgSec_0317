@@ -4,13 +4,12 @@
 
 ## 課前準備
 - 練習虛擬機使用和 Linux 基本指令
-- 請加入 [Discord 群組](https://discord.gg/hQYXb7RYV4)
-
-## 證書發放標準
-完成 3/17 課程的作業，並通過助教審核
+- 安裝所需工具或使用我提供的虛擬機檔案
 
 ## 環境
-虛擬機檔案載點：[點我](https://1drv.ms/f/s!AiGk-SANRb91iB_7utC_rNRQyIN4?e=wWR2Hi)
+虛擬機檔案載點：[分流1](https://drive.google.com/file/d/1hRD0UoNMt8flW2SJuIZf5L5QojCcTlm-/view?usp=drive_link) [分流2](https://drive.google.com/file/d/1zU_TVs8zIIAM1xKYzYwdKRVys4KDFQdv/view?usp=sharing)
+
+[匯入虛擬機圖解](https://hackmd.io/@Flydragon/how2ovf)
 
 本次課程需要以下工具，請在上課前自行安裝或直接使用我提供的虛擬機檔案
 
